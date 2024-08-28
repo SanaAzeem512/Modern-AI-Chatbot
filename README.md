@@ -1,27 +1,31 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Getting Started with RAGChat Integration
+##Getting Started with RAGChat Integration
 
 RAGChat is a powerful library designed to streamline your interaction with various AI models, allowing you to quickly set up and use a chat-based retrieval-augmented generation (RAG) system.
 
+##Installation
+Install the package using your preferred package manager:
 
-First, run the development server:
+# Using pnpm
+pnpm add @upstash/rag-chat
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Using bun
+bun add @upstash/rag-chat
+
+# Using npm
+npm i @upstash/rag-chat
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+
 
 ## Learn More
 
