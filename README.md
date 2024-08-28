@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+Getting Started with RAGChat Integration
+
+RAGChat is a powerful library designed to streamline your interaction with various AI models, allowing you to quickly set up and use a chat-based retrieval-augmented generation (RAG) system.
+
 
 First, run the development server:
 
