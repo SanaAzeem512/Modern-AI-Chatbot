@@ -24,8 +24,7 @@ export default function Home() {
             </h2>
           </div>
           <p className="max-w-md text-sm md:text-base text-zinc-400">
-            Experience it firsthand by starting a conversation below. Our
-            chatbot is ready to help with any questions or tasks you may have.
+         Unlock the power of AI to enhance your communication experience. Whether you need quick answers, problem-solving, or engaging dialogues, our chatbot is here to assist you effortlessly.
           </p>
           <div className="w-full flex items-center justify-center md:justify-start gap-4">
             <button className="w-48 h-12 text-sm sm:text-base rounded bg-white text-black hover:bg-fuchsia-700 hover:text-white transition-colors">
